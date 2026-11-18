@@ -1,0 +1,5 @@
+.build/
+.venv/
+dist/
+*.xcodeproj
+.DS_Store
